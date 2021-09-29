@@ -4,26 +4,47 @@ This project done in order to succeed the Udacity Data analyst nanodegree. In th
 in this project i used the dataset "TMDb movie data". This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue. I investigate the dataset to look for intresting patterns and trends and tried to make assumptions of what is make a movie successful.
 Variables description:
 > id: the id of each cell
+
 > imdb_id: the special id that the imdv gave to the movie
+
 > popularity: the condition of being liked, admired, by people.
+
 > budget: the money to make the movie
+
 > revenue: the revenue that the movie make
+
 > original_title: the name of the movie
+
 > cast: name of the cast of the movie separated by “|”
+
 > homepage: the webpage of the movie
+
 > director: name of the directors of the movie separated by “|”
+
 > tagline: Unknown
+
 > keywords: the keyword involved or describe the movie
+
 > overview: little description of the movie
+
 > runtime: the length of time a movie takes to run.
+
 > genres: the type of the movie
+
 > production_companies: name of the production_companies of the movie separated by “|”
+
 > release_date: the exact date to release the movie
+
 > vote_count: how many people vote for the movie
+
 > vote_average: unknown
+
 > release_year: the year that the movie released in
+
 > budget_adj: show the budget the associated movie in terms of 2010 dollars
+
 > revenue_adj:show the revenue the associated movie in terms of 2010 dollars
+
 
 
 # Conclusions
